@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap'); 
+
+/* precisa disso AI EM CIMA para colocar a fonte bonitinha no h1 */
+body{
+    background-color: hsl(57, 86%, 86%);
+    font-family: sans-serif;
+}
+button{
+    padding: 25px;
+    font-size: 15px;
+}
+h1{ font-family: 'Pacifico', cursive; font-weight: normal;}

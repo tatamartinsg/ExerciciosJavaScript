@@ -1,0 +1,5 @@
+
+Colocar isso dentro do <body> em html
+<body>
+    <script type="text/javascript" src="ARQUIVO.js"></script>
+<\body>

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To-do ist 2.0</title>
+    <link rel="stylesheet" href="trystyle.css">
+</head>
+<body>
+    <h1>Sistema de Tarefas</h1>
+    <hr>
+    <h2>Digite suas tarefas:</h2>
+    <input type="text" name="tarefastxt" id="tarefatxt">
+
+    <button onclick="addItem()" class="additem" type="button">Add Item</button>
+
+    <button onclick="removeItem()" class="removeitem" type="button">Remove Item</button>
+
+    <p>*As tarefas serão adicionadas aqui!*</p>
+
+    <div>
+        <ul id="dynamic-list">
+    
+        </ul>
+    </div>
+    <script src="try2.js"></script>
+</body>
+</html>

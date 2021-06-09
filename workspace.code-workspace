@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "..\\HTML"
+		},
+		{
+			"path": "..\\HTML\\VSC\\.vscode\\C"
+		},
+		{
+			"path": "..\\CURSO HTML, CSS E JAVASCRIPT"
+		},
+		{
+			"path": "..\\PROJETO"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HTML",
+		"files.associations": {
+			"stdio.h": "c",
+			"stdlib.h": "c"
+		}
+	}
+}
